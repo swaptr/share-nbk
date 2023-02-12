@@ -1,2 +1,2 @@
 # share_nbk
-Shared jupyter notebooks
+Share only notebooks are stored here.
