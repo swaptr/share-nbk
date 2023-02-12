@@ -1,2 +1,2 @@
-# share_nbk
+# share-nbk
 Share only notebooks are stored here.
